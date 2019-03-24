@@ -2,4 +2,10 @@ READ ME 2
 this is 2 reset
 this is book
 over
+<<<<<<< HEAD
 this is hotfix
+=======
+this is iss53
+
+this is iss53 three
+>>>>>>> iss53
